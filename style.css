@@ -1,28 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
-  text-align: end;
-  margin: 0;
+  text-align: center;
 }
 
 #hero {
-    width: 592px;
-    margin: 72px;
+  width: 592px;
+  margin: 0 auto 72px;
 }
 
 img {
-    margin: 100px;
+  margin-bottom: 72px;
 }
 
 h1 {
   font-family: "Inter", sans-serif;
   font-size: 49px;
   line-height: 56px;
-  font-weight: normal;
+  font-weight: 400;
+  margin-bottom: 32px;
 }
 
 h1 span {
-  font-weight: bold;
-
+  font-weight: 700;
   margin-bottom: 32px;
 }
 
@@ -37,20 +42,18 @@ p, #footer {
 }
 
 #footer a + a {
-    margin-left: 28px;
+  margin-left: 28px;
 }
 
 .line {
     width: 568px;
     height: 0;
-
     margin: 0 8px;
-
     border: 1px solid #ECEFF2;
 }
 
 #balls {
     position: fixed;
-    top: 0;
+    bottom: -50px;
     right: 0;
 }
