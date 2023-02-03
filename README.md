@@ -66,4 +66,4 @@ Interpretação de layouts (Figma)
 ## Você pode acessar pelo site abaixo:
 https://explorer-stage-02-desafio-fase-01.vercel.app/
 
-Feito com ♥ by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com 🧡 by Taiane Karine
